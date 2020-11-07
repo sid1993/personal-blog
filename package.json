@@ -7,6 +7,10 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Siddhartha",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sid1993/personal-blog.git"
+	},
 	"license": "ISC",
 	"dependencies": {
 		"body-parser": "^1.18.3",
