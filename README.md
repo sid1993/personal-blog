@@ -1,4 +1,4 @@
-# Personal Blog using EJS and Node JS routing with Lodash package
+# Personal Blog using EJS, Node JS and MongoDB.
 
 ## Live : https://personal-blog-sid.herokuapp.com/
 
